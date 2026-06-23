@@ -4,3 +4,6 @@
 df <- list(a = 1:5, b = letters[1:5])
 ```
 
+#how to clean up after a branch merge
+#git branch -d BRANCHNAME
+#git remote update origin --prune
